@@ -91,7 +91,7 @@ for char, code in huffman_codes.items():
 ## Output:
 
 ### Print the characters and its huffmancode
-<img width="167" height="210" alt="image" src="https://github.com/user-attachments/assets/1a47141a-2c22-438b-928a-ff9913067885" />
+<img width="232" height="222" alt="image" src="https://github.com/user-attachments/assets/6c36fae6-6a97-4db0-ba0a-bc8dec7dce9b" />
 
 
 
