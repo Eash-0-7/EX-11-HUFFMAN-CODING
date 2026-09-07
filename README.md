@@ -24,9 +24,9 @@ To implement Huffman coding to compress the data using Python.
  
 ## Program:
 
-**NAME** : SABARISH A
+**NAME** : Eashwar M
 
-**REG. NO** : 212225230232
+**REG. NO** : 212225240039
 
 ``` Python
 # Get the input String
